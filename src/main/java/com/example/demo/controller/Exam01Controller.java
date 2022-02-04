@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/ex01")
-public class Ex01Controller {
+public class Exam01Controller {
 	
 	@RequestMapping("")
 	public String index() {
